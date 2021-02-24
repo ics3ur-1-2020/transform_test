@@ -2,7 +2,7 @@
  * Extension for scaling and rotating. Inspired by @ChaseMor
  * https://github.com/ChaseMor/pxt-arcade-rotsprite
  */
-//% weight=0 color=#b8860b icon="\uf021" block="Sprite Transforms"
+//% weight=100 color=#b8860b icon="\uf021" block="Sprite Transforms"
 //% advanced=true
 namespace transformSprites {
     // Number of times the scaled image has been doubled.
